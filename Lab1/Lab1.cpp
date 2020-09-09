@@ -15,13 +15,13 @@ int main (){
             if (i = j) {
                 sumgl += mass[i][j];
             }
-            else if (i + j == N - 1) {
+            if (i + j == N - 1) {
                 sumpb += mass[i][j];
             }
             std::cout << mass[i][j] << " ";
         }
         std::cout << '\n';
-    }
+    }   
     
     std::cout << '\n';
     
