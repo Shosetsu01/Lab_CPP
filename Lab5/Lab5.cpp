@@ -15,24 +15,22 @@ double Area_Square(double* arr_side);
 class Figure
 {
 private:
-    int n_length;
-    double* arr_length;
+    int n_side;  
     double (*perimeter)(double*);
     double (*area)(double*);
     int figure_type;
-public:
 
-    Figure(int n_length, double* arr_length, double (*perimeter)(double*), double (*area)(double*), int figure_type)
+protected:
+    double* arr_length;
+
+public:
+    Figure(int n_side, double* arr_length, double (*perimeter)(double*), double (*area)(double*), int figure_type)
     {
-        this->n_length = n_length;
+        this->n_side = n_side;
         this->arr_length= arr_length;
         this->perimeter = perimeter;
         this->area = area;  
         this->figure_type = figure_type;
-    }
-
-    ~Figure() {
-        delete[] arr_length;
     }
 
     int getfigure_type(){
@@ -52,26 +50,19 @@ public:
 
 class Triangle: public Figure
 {
-private:
-    double* array_size;
 public:
     Triangle(double* arr_lenght):
-    Figure(3, arr_lenght, Perimeter_Triangle, Area_Triangle, 0),
-    array_size(arr_lenght)
+    Figure(3, arr_lenght, Perimeter_Triangle, Area_Triangle, 0)
     {}
-
-    ~Triangle()
-    {
-    }
 
     void Info()
     {
         cout.precision(3);
         cout << "TYPE : Triangle" << endl;
         cout << "Length:" << endl;
-        cout << fixed << "A: " << array_size[0] << endl;
-        cout << fixed << "B: " << array_size[1] << endl;
-        cout << fixed << "C: " << array_size[2] << endl;
+        cout << fixed << "A: " << Figure::arr_length[0] << endl;
+        cout << fixed << "B: " << Figure::arr_length[1] << endl;
+        cout << fixed << "C: " << Figure::arr_length[2] << endl;
         cout
              << "Perimeter: " << func_perimeter() << endl
              << "Area: " << func_area() << endl
@@ -83,24 +74,17 @@ public:
 
 class Square: public Figure
 {
-private:
-    double* array_size;
 public:
     Square(double* arr_lenght):
-    Figure(1, arr_lenght, Perimeter_Square, Area_Square, 1),
-    array_size(arr_lenght)
+    Figure(1, arr_lenght, Perimeter_Square, Area_Square, 1)
     {}
-
-    ~Square()
-    {
-    }
 
     void Info()
     {
         cout.precision(3);
         cout << "TYPE : Square" << endl;
         cout << "Length:" << endl;
-        cout << fixed << "A: " << array_size[0] << endl;
+        cout << fixed << "A: " << Figure::arr_length[0] << endl;
         cout 
              << "Perimeter: " << func_perimeter() << endl
              << "Area: " << func_area() << endl
