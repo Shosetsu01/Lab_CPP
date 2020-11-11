@@ -5,33 +5,10 @@
 
 using namespace std;
 
-// Функции расчета площади и периметра 
-
-double Perimeter_Triangle(double* arr_side)
-{
-    double perimeter;
-    for (int i = 0; i < 3; i++){
-        perimeter += arr_side[i];
-    }
-    return perimeter;
-}
-
-double Area_Triangle(double* arr_side)
-{
-    double pol_perimetra = 0;
-    pol_perimetra = (arr_side[0] + arr_side[1] + arr_side[2]) / 2;
-    return (sqrt( pol_perimetra * (pol_perimetra - arr_side[0]) * (pol_perimetra - arr_side[1]) * (pol_perimetra - arr_side[2])));
-}
-
-double Perimeter_Square(double* arr_side)
-{
-    return arr_side[0] * 4;
-}
-
-double Area_Square(double* arr_side)
-{
-    return arr_side[0] * 4;
-}
+double Perimeter_Triangle(double* arr_side);
+double Area_Triangle(double* arr_side);
+double Perimeter_Square(double* arr_side);
+double Area_Square(double* arr_side);
 
 // Класс Фигур
 
@@ -83,6 +60,10 @@ public:
     array_size(arr_lenght)
     {}
 
+    ~Triangle()
+    {
+    }
+
     void Info()
     {
         cout.precision(3);
@@ -109,6 +90,10 @@ public:
     Figure(1, arr_lenght, Perimeter_Square, Area_Square, 1),
     array_size(arr_lenght)
     {}
+
+    ~Square()
+    {
+    }
 
     void Info()
     {
@@ -188,4 +173,32 @@ int main()
     Notebook my_notebook(N);
     my_notebook.out_info();
     return 0;
+}
+
+// Функции расчета площади и периметра 
+
+double Perimeter_Triangle(double* arr_side)
+{
+    double perimeter;
+    for (int i = 0; i < 3; i++){
+        perimeter += arr_side[i];
+    }
+    return perimeter;
+}
+
+double Area_Triangle(double* arr_side)
+{
+    double pol_perimetra = 0;
+    pol_perimetra = (arr_side[0] + arr_side[1] + arr_side[2]) / 2;
+    return (sqrt( pol_perimetra * (pol_perimetra - arr_side[0]) * (pol_perimetra - arr_side[1]) * (pol_perimetra - arr_side[2])));
+}
+
+double Perimeter_Square(double* arr_side)
+{
+    return arr_side[0] * 4;
+}
+
+double Area_Square(double* arr_side)
+{
+    return arr_side[0] * 4;
 }
