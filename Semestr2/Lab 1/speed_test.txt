@@ -1,0 +1,975 @@
+N = 1000
+
+Попытка №1
+Time: 3.9889e+06 nano sec.
+Time: 3988.9 micro sec.
+Time: 3.9889 milli sec.
+Time: 0.0039889 sec.
+
+Попытка №2
+Time: 4.9869e+06 nano sec.
+Time: 4986.9 micro sec.
+Time: 4.9869 milli sec.
+Time: 0.0049869 sec.
+
+Попытка №3
+Time: 4.986e+06 nano sec.
+Time: 4986 micro sec.
+Time: 4.986 milli sec.
+Time: 0.004986 sec.
+
+Попытка №4
+Time: 3.989e+06 nano sec.
+Time: 3989 micro sec.
+Time: 3.989 milli sec.
+Time: 0.003989 sec.
+
+Попытка №5
+Time: 4.9888e+06 nano sec.
+Time: 4988.8 micro sec.
+Time: 4.9888 milli sec.
+Time: 0.0049888 sec.
+
+Попытка №6
+Time: 6.9829e+06 nano sec.
+Time: 6982.9 micro sec.
+Time: 6.9829 milli sec.
+Time: 0.0069829 sec.
+
+Попытка №7
+Time: 2.9875e+06 nano sec.
+Time: 2987.5 micro sec.
+Time: 2.9875 milli sec.
+Time: 0.0029875 sec.
+
+Попытка №8
+Time: 4.9863e+06 nano sec.
+Time: 4986.3 micro sec.
+Time: 4.9863 milli sec.
+Time: 0.0049863 sec.
+
+Попытка №9
+Time: 5.9847e+06 nano sec.
+Time: 5984.7 micro sec.
+Time: 5.9847 milli sec.
+Time: 0.0059847 sec.
+
+Попытка №10
+Time: 3.0003e+06 nano sec.
+Time: 3000.3 micro sec.
+Time: 3.0003 milli sec.
+Time: 0.0030003 sec.
+
+Попытка №11
+Time: 4.979e+06 nano sec.
+Time: 4979 micro sec.
+Time: 4.979 milli sec.
+Time: 0.004979 sec.
+
+Попытка №12
+Time: 3.9882e+06 nano sec.
+Time: 3988.2 micro sec.
+Time: 3.9882 milli sec.
+Time: 0.0039882 sec.
+
+Попытка №13
+Time: 3.9893e+06 nano sec.
+Time: 3989.3 micro sec.
+Time: 3.9893 milli sec.
+Time: 0.0039893 sec.
+
+Попытка №14
+Time: 3.9891e+06 nano sec.
+Time: 3989.1 micro sec.
+Time: 3.9891 milli sec.
+Time: 0.0039891 sec.
+
+Попытка №15
+Time: 3.991e+06 nano sec.
+Time: 3991 micro sec.
+Time: 3.991 milli sec.
+Time: 0.003991 sec.
+
+Попытка №16
+Time: 4.9856e+06 nano sec.
+Time: 4985.6 micro sec.
+Time: 4.9856 milli sec.
+Time: 0.0049856 sec.
+
+Попытка №17
+Time: 4.9861e+06 nano sec.
+Time: 4986.1 micro sec.
+Time: 4.9861 milli sec.
+Time: 0.0049861 sec.
+
+Попытка №18
+Time: 3.9901e+06 nano sec.
+Time: 3990.1 micro sec.
+Time: 3.9901 milli sec.
+Time: 0.0039901 sec.
+
+Попытка №19
+Time: 2.9914e+06 nano sec.
+Time: 2991.4 micro sec.
+Time: 2.9914 milli sec.
+Time: 0.0029914 sec.
+
+Попытка №20
+Time: 4.9871e+06 nano sec.
+Time: 4987.1 micro sec.
+Time: 4.9871 milli sec.
+Time: 0.0049871 sec.
+
+N = 2000
+
+Попытка №1
+Time: 2.29378e+07 nano sec.
+Time: 22937.8 micro sec.
+Time: 22.9378 milli sec.
+Time: 0.0229378 sec.
+
+Попытка №2
+Time: 2.39357e+07 nano sec.
+Time: 23935.7 micro sec.
+Time: 23.9357 milli sec.
+Time: 0.0239357 sec.
+
+Попытка №3
+Time: 1.89494e+07 nano sec.
+Time: 18949.4 micro sec.
+Time: 18.9494 milli sec.
+Time: 0.0189494 sec.
+
+Попытка №4
+Time: 4.88658e+07 nano sec.
+Time: 48865.8 micro sec.
+Time: 48.8658 milli sec.
+Time: 0.0488658 sec.
+
+Попытка №5
+Time: 8.17807e+07 nano sec.
+Time: 81780.7 micro sec.
+Time: 81.7807 milli sec.
+Time: 0.0817807 sec.
+
+Попытка №6
+Time: 5.58529e+07 nano sec.
+Time: 55852.9 micro sec.
+Time: 55.8529 milli sec.
+Time: 0.0558529 sec.
+
+Попытка №7
+Time: 4.58785e+07 nano sec.
+Time: 45878.5 micro sec.
+Time: 45.8785 milli sec.
+Time: 0.0458785 sec.
+
+Попытка №8
+Time: 2.09386e+07 nano sec.
+Time: 20938.6 micro sec.
+Time: 20.9386 milli sec.
+Time: 0.0209386 sec.
+
+Попытка №9
+Time: 1.89498e+07 nano sec.
+Time: 18949.8 micro sec.
+Time: 18.9498 milli sec.
+Time: 0.0189498 sec.
+
+Попытка №10
+Time: 2.69303e+07 nano sec.
+Time: 26930.3 micro sec.
+Time: 26.9303 milli sec.
+Time: 0.0269303 sec.
+
+Попытка №11
+Time: 1.79436e+07 nano sec.
+Time: 17943.6 micro sec.
+Time: 17.9436 milli sec.
+Time: 0.0179436 sec.
+
+Попытка №12
+Time: 1.99464e+07 nano sec.
+Time: 19946.4 micro sec.
+Time: 19.9464 milli sec.
+Time: 0.0199464 sec.
+
+Попытка №13
+Time: 2.194e+07 nano sec.
+Time: 21940 micro sec.
+Time: 21.94 milli sec.
+Time: 0.02194 sec.
+
+Попытка №14
+Time: 2.19449e+07 nano sec.
+Time: 21944.9 micro sec.
+Time: 21.9449 milli sec.
+Time: 0.0219449 sec.
+
+Попытка №15
+Time: 1.69506e+07 nano sec.
+Time: 16950.6 micro sec.
+Time: 16.9506 milli sec.
+Time: 0.0169506 sec.
+
+Попытка №16
+Time: 1.89489e+07 nano sec.
+Time: 18948.9 micro sec.
+Time: 18.9489 milli sec.
+Time: 0.0189489 sec.
+
+Попытка №17
+Time: 1.79521e+07 nano sec.
+Time: 17952.1 micro sec.
+Time: 17.9521 milli sec.
+Time: 0.0179521 sec.
+
+Попытка №18
+Time: 2.29379e+07 nano sec.
+Time: 22937.9 micro sec.
+Time: 22.9379 milli sec.
+Time: 0.0229379 sec.
+
+Попытка №19
+Time: 2.09491e+07 nano sec.
+Time: 20949.1 micro sec.
+Time: 20.9491 milli sec.
+Time: 0.0209491 sec.
+
+Попытка №20
+Time: 1.89434e+07 nano sec.
+Time: 18943.4 micro sec.
+Time: 18.9434 milli sec.
+Time: 0.0189434 sec.
+
+N = 4000
+
+Попытка №1
+Time: 1.45611e+08 nano sec.
+Time: 145611 micro sec.
+Time: 145.611 milli sec.
+Time: 0.145611 sec.
+
+Попытка №2
+Time: 1.30651e+08 nano sec.
+Time: 130651 micro sec.
+Time: 130.651 milli sec.
+Time: 0.130651 sec.
+
+Попытка №3
+Time: 9.67414e+07 nano sec.
+Time: 96741.4 micro sec.
+Time: 96.7414 milli sec.
+Time: 0.0967414 sec.
+
+Попытка №4
+Time: 9.07562e+07 nano sec.
+Time: 90756.2 micro sec.
+Time: 90.7562 milli sec.
+Time: 0.0907562 sec.
+
+Попытка №5
+Time: 7.87871e+07 nano sec.
+Time: 78787.1 micro sec.
+Time: 78.7871 milli sec.
+Time: 0.0787871 sec.
+
+Попытка №6
+Time: 1.08712e+08 nano sec.
+Time: 108712 micro sec.
+Time: 108.712 milli sec.
+Time: 0.108712 sec.
+
+Попытка №7
+Time: 1.24181e+08 nano sec.
+Time: 124181 micro sec.
+Time: 124.181 milli sec.
+Time: 0.124181 sec.
+
+Попытка №8
+Time: 1.19679e+08 nano sec.
+Time: 119679 micro sec.
+Time: 119.679 milli sec.
+Time: 0.119679 sec.
+
+Попытка №9
+Time: 1.63562e+08 nano sec.
+Time: 163562 micro sec.
+Time: 163.561 milli sec.
+Time: 0.163561 sec.
+
+Попытка №10
+Time: 1.43616e+08 nano sec.
+Time: 143616 micro sec.
+Time: 143.616 milli sec.
+Time: 0.143616 sec.
+
+Попытка №11
+Time: 1.18685e+08 nano sec.
+Time: 118685 micro sec.
+Time: 118.685 milli sec.
+Time: 0.118685 sec.
+
+Попытка №12
+Time: 1.02099e+08 nano sec.
+Time: 102099 micro sec.
+Time: 102.099 milli sec.
+Time: 0.102099 sec.
+
+Попытка №13
+Time: 8.57679e+07 nano sec.
+Time: 85767.9 micro sec.
+Time: 85.7679 milli sec.
+Time: 0.0857679 sec.
+
+Попытка №14
+Time: 7.5415e+07 nano sec.
+Time: 75415 micro sec.
+Time: 75.415 milli sec.
+Time: 0.075415 sec.
+
+Попытка №15
+Time: 8.02945e+07 nano sec.
+Time: 80294.5 micro sec.
+Time: 80.2945 milli sec.
+Time: 0.0802945 sec.
+
+Попытка №16
+Time: 7.2805e+07 nano sec.
+Time: 72805 micro sec.
+Time: 72.805 milli sec.
+Time: 0.072805 sec.
+
+Попытка №17
+Time: 7.59683e+07 nano sec.
+Time: 75968.3 micro sec.
+Time: 75.9683 milli sec.
+Time: 0.0759683 sec.
+
+Попытка №18
+Time: 7.38023e+07 nano sec.
+Time: 73802.3 micro sec.
+Time: 73.8023 milli sec.
+Time: 0.0738023 sec.
+
+Попытка №19
+Time: 6.68207e+07 nano sec.
+Time: 66820.7 micro sec.
+Time: 66.8207 milli sec.
+Time: 0.0668207 sec.
+
+Попытка №20
+Time: 6.08282e+07 nano sec.
+Time: 60828.2 micro sec.
+Time: 60.8282 milli sec.
+Time: 0.0608282 sec.
+
+N = 8000
+
+Попытка №1
+Time: 2.71276e+08 nano sec.
+Time: 271276 micro sec.
+Time: 271.276 milli sec.
+Time: 0.271276 sec.
+
+Попытка №2
+Time: 4.21872e+08 nano sec.
+Time: 421872 micro sec.
+Time: 421.873 milli sec.
+Time: 0.421872 sec.
+
+Попытка №3
+Time: 2.88025e+08 nano sec.
+Time: 288025 micro sec.
+Time: 288.025 milli sec.
+Time: 0.288025 sec.
+
+Попытка №4
+Time: 2.74267e+08 nano sec.
+Time: 274267 micro sec.
+Time: 274.267 milli sec.
+Time: 0.274267 sec.
+
+Попытка №5
+Time: 2.71274e+08 nano sec.
+Time: 271274 micro sec.
+Time: 271.274 milli sec.
+Time: 0.271274 sec.
+
+Попытка №6
+Time: 2.96208e+08 nano sec.
+Time: 296208 micro sec.
+Time: 296.208 milli sec.
+Time: 0.296208 sec.
+
+Попытка №7
+Time: 2.74267e+08 nano sec.
+Time: 274267 micro sec.
+Time: 274.267 milli sec.
+Time: 0.274267 sec.
+
+Попытка №8
+Time: 2.70786e+08 nano sec.
+Time: 270786 micro sec.
+Time: 270.786 milli sec.
+Time: 0.270786 sec.
+
+Попытка №9
+Time: 2.59813e+08 nano sec.
+Time: 259813 micro sec.
+Time: 259.813 milli sec.
+Time: 0.259813 sec.
+
+Попытка №10
+Time: 2.59306e+08 nano sec.
+Time: 259306 micro sec.
+Time: 259.305 milli sec.
+Time: 0.259306 sec.
+
+Попытка №11
+Time: 2.75284e+08 nano sec.
+Time: 275284 micro sec.
+Time: 275.284 milli sec.
+Time: 0.275284 sec.
+
+Попытка №12
+Time: 2.64293e+08 nano sec.
+Time: 264293 micro sec.
+Time: 264.293 milli sec.
+Time: 0.264293 sec.
+
+Попытка №13
+Time: 2.77259e+08 nano sec.
+Time: 277259 micro sec.
+Time: 277.259 milli sec.
+Time: 0.277259 sec.
+
+Попытка №14
+Time: 2.65291e+08 nano sec.
+Time: 265291 micro sec.
+Time: 265.291 milli sec.
+Time: 0.265291 sec.
+
+Попытка №15
+Time: 2.59847e+08 nano sec.
+Time: 259847 micro sec.
+Time: 259.847 milli sec.
+Time: 0.259847 sec.
+
+Попытка №16
+Time: 2.53677e+08 nano sec.
+Time: 253677 micro sec.
+Time: 253.677 milli sec.
+Time: 0.253677 sec.
+
+Попытка №17
+Time: 2.78256e+08 nano sec.
+Time: 278256 micro sec.
+Time: 278.256 milli sec.
+Time: 0.278256 sec.
+
+Попытка №18
+Time: 2.76261e+08 nano sec.
+Time: 276261 micro sec.
+Time: 276.261 milli sec.
+Time: 0.276261 sec.
+
+Попытка №19
+Time: 2.53323e+08 nano sec.
+Time: 253323 micro sec.
+Time: 253.323 milli sec.
+Time: 0.253323 sec.
+
+Попытка №20
+Time: 2.74264e+08 nano sec.
+Time: 274264 micro sec.
+Time: 274.264 milli sec.
+Time: 0.274264 sec.
+
+N = 16000
+
+Попытка №1
+Time: 1.07317e+09 nano sec.
+Time: 1.07317e+06 micro sec.
+Time: 1073.17 milli sec.
+Time: 1.07317 sec.
+
+Попытка №2
+Time: 1.23067e+09 nano sec.
+Time: 1.23067e+06 micro sec.
+Time: 1230.67 milli sec.
+Time: 1.23067 sec.
+
+Попытка №3
+Time: 1.11653e+09 nano sec.
+Time: 1.11653e+06 micro sec.
+Time: 1116.53 milli sec.
+Time: 1.11653 sec.
+
+Попытка №4
+Time: 1.02197e+09 nano sec.
+Time: 1.02197e+06 micro sec.
+Time: 1021.97 milli sec.
+Time: 1.02197 sec.
+
+Попытка №5
+Time: 1.04323e+09 nano sec.
+Time: 1.04323e+06 micro sec.
+Time: 1043.23 milli sec.
+Time: 1.04323 sec.
+
+Попытка №6
+Time: 1.05318e+09 nano sec.
+Time: 1.05318e+06 micro sec.
+Time: 1053.18 milli sec.
+Time: 1.05318 sec.
+
+Попытка №7
+Time: 1.25921e+09 nano sec.
+Time: 1.25921e+06 micro sec.
+Time: 1259.21 milli sec.
+Time: 1.25921 sec.
+
+Попытка №8
+Time: 1.0831e+09 nano sec.
+Time: 1.0831e+06 micro sec.
+Time: 1083.1 milli sec.
+Time: 1.0831 sec.
+
+Попытка №9
+Time: 1.07879e+09 nano sec.
+Time: 1.07879e+06 micro sec.
+Time: 1078.79 milli sec.
+Time: 1.07879 sec.
+
+Попытка №10
+Time: 1.02069e+09 nano sec.
+Time: 1.02069e+06 micro sec.
+Time: 1020.69 milli sec.
+Time: 1.02069 sec.
+
+Попытка №11
+Time: 1.15795e+09 nano sec.
+Time: 1.15795e+06 micro sec.
+Time: 1157.95 milli sec.
+Time: 1.15795 sec.
+
+Попытка №12
+Time: 1.17032e+09 nano sec.
+Time: 1.17032e+06 micro sec.
+Time: 1170.32 milli sec.
+Time: 1.17032 sec.
+
+Попытка №13
+Time: 1.04172e+09 nano sec.
+Time: 1.04172e+06 micro sec.
+Time: 1041.72 milli sec.
+Time: 1.04172 sec.
+
+Попытка №14
+Time: 1.04673e+09 nano sec.
+Time: 1.04673e+06 micro sec.
+Time: 1046.73 milli sec.
+Time: 1.04673 sec.
+
+Попытка №15
+Time: 1.09172e+09 nano sec.
+Time: 1.09172e+06 micro sec.
+Time: 1091.72 milli sec.
+Time: 1.09172 sec.
+
+Попытка №16
+Time: 1.11754e+09 nano sec.
+Time: 1.11754e+06 micro sec.
+Time: 1117.54 milli sec.
+Time: 1.11754 sec.
+
+Попытка №17
+Time: 1.19945e+09 nano sec.
+Time: 1.19945e+06 micro sec.
+Time: 1199.45 milli sec.
+Time: 1.19945 sec.
+
+Попытка №18
+Time: 1.13328e+09 nano sec.
+Time: 1.13328e+06 micro sec.
+Time: 1133.28 milli sec.
+Time: 1.13328 sec.
+
+Попытка №19
+Time: 1.0886e+09 nano sec.
+Time: 1.0886e+06 micro sec.
+Time: 1088.6 milli sec.
+Time: 1.0886 sec.
+
+Попытка №20
+Time: 1.03078e+09 nano sec.
+Time: 1.03078e+06 micro sec.
+Time: 1030.78 milli sec.
+Time: 1.03078 sec.
+
+N = 32000
+
+Попытка №1
+Time: 4.49418e+09 nano sec.
+Time: 4.49418e+06 micro sec.
+Time: 4494.18 milli sec.
+Time: 4.49418 sec.
+
+Попытка №2
+Time: 4.33894e+09 nano sec.
+Time: 4.33894e+06 micro sec.
+Time: 4338.94 milli sec.
+Time: 4.33894 sec.
+
+Попытка №3
+Time: 4.46306e+09 nano sec.
+Time: 4.46306e+06 micro sec.
+Time: 4463.06 milli sec.
+Time: 4.46306 sec.
+
+Попытка №4
+Time: 4.81527e+09 nano sec.
+Time: 4.81527e+06 micro sec.
+Time: 4815.27 milli sec.
+Time: 4.81527 sec.
+
+Попытка №5
+Time: 4.68177e+09 nano sec.
+Time: 4.68177e+06 micro sec.
+Time: 4681.77 milli sec.
+Time: 4.68177 sec.
+
+Попытка №6
+Time: 6.6576e+09 nano sec.
+Time: 6.6576e+06 micro sec.
+Time: 6657.6 milli sec.
+Time: 6.6576 sec.
+
+Попытка №7
+Time: 4.72685e+09 nano sec.
+Time: 4.72685e+06 micro sec.
+Time: 4726.85 milli sec.
+Time: 4.72685 sec.
+
+Попытка №8
+Time: 4.48979e+09 nano sec.
+Time: 4.48979e+06 micro sec.
+Time: 4489.79 milli sec.
+Time: 4.48979 sec.
+
+Попытка №9
+Time: 4.46683e+09 nano sec.
+Time: 4.46683e+06 micro sec.
+Time: 4466.83 milli sec.
+Time: 4.46683 sec.
+
+Попытка №10
+Time: 4.3303e+09 nano sec.
+Time: 4.3303e+06 micro sec.
+Time: 4330.3 milli sec.
+Time: 4.3303 sec.
+
+Попытка №11
+Time: 4.80814e+09 nano sec.
+Time: 4.80814e+06 micro sec.
+Time: 4808.14 milli sec.
+Time: 4.80814 sec.
+
+Попытка №12
+Time: 5.23657e+09 nano sec.
+Time: 5.23657e+06 micro sec.
+Time: 5236.57 milli sec.
+Time: 5.23657 sec.
+
+Попытка №13
+Time: 6.12005e+09 nano sec.
+Time: 6.12005e+06 micro sec.
+Time: 6120.05 milli sec.
+Time: 6.12005 sec.
+
+Попытка №14
+Time: 4.8491e+09 nano sec.
+Time: 4.8491e+06 micro sec.
+Time: 4849.1 milli sec.
+Time: 4.8491 sec.
+
+Попытка №15
+Time: 4.39861e+09 nano sec.
+Time: 4.39861e+06 micro sec.
+Time: 4398.61 milli sec.
+Time: 4.39861 sec.
+
+Попытка №16
+Time: 4.26533e+09 nano sec.
+Time: 4.26533e+06 micro sec.
+Time: 4265.33 milli sec.
+Time: 4.26533 sec.
+
+Попытка №17
+Time: 4.20103e+09 nano sec.
+Time: 4.20103e+06 micro sec.
+Time: 4201.03 milli sec.
+Time: 4.20103 sec.
+
+Попытка №18
+Time: 4.18313e+09 nano sec.
+Time: 4.18313e+06 micro sec.
+Time: 4183.13 milli sec.
+Time: 4.18313 sec.
+
+Попытка №19
+Time: 4.30442e+09 nano sec.
+Time: 4.30442e+06 micro sec.
+Time: 4304.42 milli sec.
+Time: 4.30442 sec.
+
+Попытка №20
+Time: 4.32488e+09 nano sec.
+Time: 4.32488e+06 micro sec.
+Time: 4324.88 milli sec.
+Time: 4.32488 sec.
+
+N = 64000
+
+Попытка №1
+Time: 1.70814e+10 nano sec.
+Time: 1.70814e+07 micro sec.
+Time: 17081.4 milli sec.
+Time: 17.0814 sec.
+
+Попытка №2
+Time: 1.68206e+10 nano sec.
+Time: 1.68206e+07 micro sec.
+Time: 16820.6 milli sec.
+Time: 16.8206 sec.
+
+Попытка №3
+Time: 1.72506e+10 nano sec.
+Time: 1.72506e+07 micro sec.
+Time: 17250.6 milli sec.
+Time: 17.2506 sec.
+
+Попытка №4
+Time: 1.70575e+10 nano sec.
+Time: 1.70575e+07 micro sec.
+Time: 17057.5 milli sec.
+Time: 17.0575 sec.
+
+Попытка №5
+Time: 1.70579e+10 nano sec.
+Time: 1.70579e+07 micro sec.
+Time: 17057.9 milli sec.
+Time: 17.0579 sec.
+
+Попытка №6
+Time: 1.67091e+10 nano sec.
+Time: 1.67091e+07 micro sec.
+Time: 16709.1 milli sec.
+Time: 16.7091 sec.
+
+Попытка №7
+Time: 1.73661e+10 nano sec.
+Time: 1.73661e+07 micro sec.
+Time: 17366.1 milli sec.
+Time: 17.3661 sec.
+
+Попытка №8
+Time: 1.93088e+10 nano sec.
+Time: 1.93088e+07 micro sec.
+Time: 19308.8 milli sec.
+Time: 19.3088 sec.
+
+Попытка №9
+Time: 1.92101e+10 nano sec.
+Time: 1.92101e+07 micro sec.
+Time: 19210.1 milli sec.
+Time: 19.2101 sec.
+
+Попытка №10
+Time: 1.90247e+10 nano sec.
+Time: 1.90247e+07 micro sec.
+Time: 19024.7 milli sec.
+Time: 19.0247 sec.
+
+Попытка №11
+Time: 1.87824e+10 nano sec.
+Time: 1.87824e+07 micro sec.
+Time: 18782.4 milli sec.
+Time: 18.7824 sec.
+
+Попытка №12
+Time: 1.96087e+10 nano sec.
+Time: 1.96087e+07 micro sec.
+Time: 19608.7 milli sec.
+Time: 19.6087 sec.
+
+Попытка №13
+Time: 1.97268e+10 nano sec.
+Time: 1.97268e+07 micro sec.
+Time: 19726.8 milli sec.
+Time: 19.7268 sec.
+
+Попытка №14
+Time: 1.92295e+10 nano sec.
+Time: 1.92295e+07 micro sec.
+Time: 19229.5 milli sec.
+Time: 19.2295 sec.
+
+Попытка №15
+Time: 1.75018e+10 nano sec.
+Time: 1.75018e+07 micro sec.
+Time: 17501.8 milli sec.
+Time: 17.5018 sec.
+
+Попытка №16
+Time: 1.71908e+10 nano sec.
+Time: 1.71908e+07 micro sec.
+Time: 17190.8 milli sec.
+Time: 17.1908 sec.
+
+Попытка №17
+Time: 1.76559e+10 nano sec.
+Time: 1.76559e+07 micro sec.
+Time: 17655.9 milli sec.
+Time: 17.6559 sec.
+
+Попытка №18
+Time: 1.8003e+10 nano sec.
+Time: 1.8003e+07 micro sec.
+Time: 18003 milli sec.
+Time: 18.003 sec.
+
+Попытка №19
+Time: 1.78453e+10 nano sec.
+Time: 1.78453e+07 micro sec.
+Time: 17845.3 milli sec.
+Time: 17.8453 sec.
+
+Попытка №20
+Time: 1.80605e+10 nano sec.
+Time: 1.80605e+07 micro sec.
+Time: 18060.5 milli sec.
+Time: 18.0605 sec.
+
+N = 128000
+
+Попытка №1
+Time: 7.90862e+10 nano sec.
+Time: 7.90862e+07 micro sec.
+Time: 79086.2 milli sec.
+Time: 79.0862 sec.
+
+Попытка №2
+Time: 7.65307e+10 nano sec.
+Time: 7.65307e+07 micro sec.
+Time: 76530.7 milli sec.
+Time: 76.5307 sec.
+
+Попытка №3
+Time: 7.81477e+10 nano sec.
+Time: 7.81477e+07 micro sec.
+Time: 78147.7 milli sec.
+Time: 78.1477 sec.
+
+Попытка №4
+Time: 6.45088e+10 nano sec.
+Time: 6.45088e+07 micro sec.
+Time: 64508.8 milli sec.
+Time: 64.5088 sec.
+
+Попытка №5
+Time: 6.20438e+10 nano sec.
+Time: 6.20438e+07 micro sec.
+Time: 62043.8 milli sec.
+Time: 62.0438 sec.
+
+Попытка №6
+Time: 6.19851e+10 nano sec.
+Time: 6.19851e+07 micro sec.
+Time: 61985.1 milli sec.
+Time: 61.9851 sec.
+
+Попытка №7
+Time: 6.22782e+10 nano sec.
+Time: 6.22782e+07 micro sec.
+Time: 62278.2 milli sec.
+Time: 62.2782 sec.
+
+Попытка №8
+Time: 6.49354e+10 nano sec.
+Time: 6.49354e+07 micro sec.
+Time: 64935.4 milli sec.
+Time: 64.9354 sec.
+
+Попытка №9
+Time: 6.70562e+10 nano sec.
+Time: 6.70562e+07 micro sec.
+Time: 67056.2 milli sec.
+Time: 67.0562 sec.
+
+Попытка №10
+Time: 6.71697e+10 nano sec.
+Time: 6.71697e+07 micro sec.
+Time: 67169.7 milli sec.
+Time: 67.1697 sec.
+
+Попытка №11
+Time: 6.54692e+10 nano sec.
+Time: 6.54692e+07 micro sec.
+Time: 65469.2 milli sec.
+Time: 65.4692 sec.
+
+Попытка №12
+Time: 6.07934e+10 nano sec.
+Time: 6.07934e+07 micro sec.
+Time: 60793.4 milli sec.
+Time: 60.7934 sec.
+
+Попытка №13
+Time: 6.42159e+10 nano sec.
+Time: 6.42159e+07 micro sec.
+Time: 64215.9 milli sec.
+Time: 64.2159 sec.
+
+Попытка №14
+Time: 6.38815e+10 nano sec.
+Time: 6.38815e+07 micro sec.
+Time: 63881.5 milli sec.
+Time: 63.8815 sec.
+
+Попытка №15
+Time: 6.16939e+10 nano sec.
+Time: 6.16939e+07 micro sec.
+Time: 61693.9 milli sec.
+Time: 61.6939 sec.
+
+Попытка №16
+Time: 6.16642e+10 nano sec.
+Time: 6.16642e+07 micro sec.
+Time: 61664.2 milli sec.
+Time: 61.6642 sec.
+
+Попытка №17
+Time: 6.25327e+10 nano sec.
+Time: 6.25327e+07 micro sec.
+Time: 62532.7 milli sec.
+Time: 62.5327 sec.
+
+Попытка №18
+Time: 6.47649e+10 nano sec.
+Time: 6.47649e+07 micro sec.
+Time: 64764.9 milli sec.
+Time: 64.7649 sec.
+
+Попытка №19
+Time: 6.25587e+10 nano sec.
+Time: 6.25587e+07 micro sec.
+Time: 62558.7 milli sec.
+Time: 62.5587 sec.
+
+Попытка №20
+Time: 6.7704e+10 nano sec.
+Time: 6.7704e+07 micro sec.
+Time: 67704 milli sec.
+Time: 67.704 sec.
